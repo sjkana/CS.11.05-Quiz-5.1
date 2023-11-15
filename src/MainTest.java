@@ -72,7 +72,7 @@ class MainTest {
 
         for (int i = 0; i < expectedTwo.length; i++) {
             assertEquals(expectedTwo[i], actualTwo[i]);
-        }
+         }
 
     }
 
